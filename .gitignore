@@ -1,0 +1,15 @@
+.godot/
+.import/
+/android/
+export/
+*.translation
+mono_crash.*.json
+.vs/
+.idea/
+bin/
+obj/
+*.user
+*.suo
+*.DotSettings.user
+.DS_Store
+Thumbs.db

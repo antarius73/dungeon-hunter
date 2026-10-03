@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.cs text diff=csharp
+*.sln text eol=crlf
+*.png binary
+*.jpg binary
+*.ttf binary
+*.otf binary
+*.docx binary
